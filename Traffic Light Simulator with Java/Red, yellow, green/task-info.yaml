@@ -1,0 +1,30 @@
+type: edu
+files:
+  - name: src/traffic/Main.java
+    visible: true
+    learner_created: false
+  - name: test/GlobalTests.java
+    visible: false
+    learner_created: false
+  - name: test/SystemOutput.java
+    visible: false
+    learner_created: false
+  - name: src/traffic/RoadState.java
+    visible: true
+    learner_created: true
+  - name: src/traffic/Road.java
+    visible: true
+    learner_created: true
+  - name: src/traffic/QueueThread.java
+    visible: true
+    learner_created: true
+  - name: src/traffic/SystemState.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/22727#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Thu, 14 Nov 2024 23:21:52 UTC"
+record: -1

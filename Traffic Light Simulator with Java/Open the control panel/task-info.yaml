@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/traffic/Main.java
+    visible: true
+    learner_created: false
+  - name: test/TrafficLightTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/22722#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 10 Nov 2024 22:27:13 UTC"
+record: 1

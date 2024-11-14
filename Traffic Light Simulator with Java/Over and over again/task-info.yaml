@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: src/traffic/Main.java
+    visible: true
+    learner_created: false
+  - name: test/GlobalTests.java
+    visible: false
+    learner_created: false
+  - name: test/SystemOutput.java
+    visible: false
+    learner_created: false
+  - name: src/traffic/State.java
+    visible: true
+    learner_created: true
+  - name: src/traffic/QueueThread.java
+    visible: true
+    learner_created: true
+  - name: src/traffic/Road.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/22726#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 14 Nov 2024 19:39:27 UTC"
+record: 5
